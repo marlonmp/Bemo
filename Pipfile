@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 "discord.py" = "*"
 youtube-dl = "*"
+python-dotenv = "*"
+pynacl = "*"
 
 [dev-packages]
 

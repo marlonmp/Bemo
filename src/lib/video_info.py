@@ -6,7 +6,7 @@ ydl_opts = {
     'postprocessors': [
         {
             'key': 'FFmpegExtractAudio',
-            'preferredcodec': 'mp3',
+            'preferredcodec': 'm4a',
             'preferredquality': '192'
         }
     ]
